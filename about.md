@@ -1,14 +1,11 @@
----
-layout: page
-title: About
-permalink: /about/
----
-![](
-Some information about you!
+
+![Aries Zhou](https://raw.githubusercontent.com/ywzhou33/ywzhou33.github.io/master/images/myphoto.JPG)
+
+Hello! My name is Aries Zhou. I am a master student studying in Statistics. The meterials of ST558 are so interesting, looking forward to learn more in this class!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy cooking, baking, and photography! :)
 
 ### Contact me
 
