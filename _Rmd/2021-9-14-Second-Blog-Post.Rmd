@@ -3,6 +3,12 @@ title: "Programming Background"
 author: "Aries Zhou"
 date: "9/12/2021"
 ---
+```{r, echo = FALSE, eval = FALSE}
+rmarkdown::render("_Rmd/2021-9-14-Second-Blog-Post.Rmd", 
+                  output_format = "github_document", 
+                  output_dir = "_posts/",
+                  output_options = list(html_preview = FALSE, keep_html=FALSE))
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, fig.path = "../images/")
@@ -18,10 +24,10 @@ I think R is a little harder to begin with, and due to its flexibility in many a
 
 ## Example R Markdown Output.  
 
-```{r iris, echo=FALSE, eval=TRUE}
+```{r iris, echo=FALSE}
 plot(iris)
 ```
-```{r, echo = FALSE, eval = TRUE}
+```{r, echo = FALSE, eval = FALSE}
 rmarkdown::render("2021-9-12-Second-Blog-Post.Rmd", 
                   output_format = "github_document", 
                   output_dir = "_posts",
