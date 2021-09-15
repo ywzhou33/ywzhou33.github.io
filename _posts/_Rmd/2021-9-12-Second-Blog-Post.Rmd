@@ -18,10 +18,10 @@ I think R is a little harder to begin with, and due to its flexibility in many a
 
 ## Example R Markdown Output.  
 
-```{r iris, echo=FALSE}
+```{r iris, echo=FALSE, eval=TRUE}
 plot(iris)
 ```
-```{r, echo = FALSE, eval = FALSE}
+```{r, echo = FALSE, eval = TRUE}
 rmarkdown::render("2021-9-12-Second-Blog-Post.Rmd", 
                   output_format = "github_document", 
                   output_dir = "_posts",
