@@ -11,7 +11,7 @@ rmarkdown::render("_Rmd/2021-10-7-Project-1-Blog.Rmd",
 ```
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.path = "../images/")
 ```
 
 #### Project 1 Backgrounds  
