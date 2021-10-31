@@ -45,7 +45,7 @@ need to compromise and find a best intermediary decision. In addition,
 even though the parallel computing helps to improve the timing a little,
 it does not significantly enhance the computing efficiency.
 
-#### [Link](https://ywzhou33.github.io/ST558-Project-2/) to the Github Pages repo and [link](https://github.com/ywzhou33/ywzhou33.github.io.git) to Github Blog repo.
+#### [Link](https://ywzhou33.github.io/ST558-Project-2/) to the Github Pages repo and [Link](https://github.com/ywzhou33/ywzhou33.github.io.git) to Github Blog repo.
 
 ``` r
 rmarkdown::render("2021-10-31-Project-2-Blog.Rmd", 

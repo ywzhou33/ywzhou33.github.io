@@ -23,7 +23,7 @@ The most difficult part for me is the random forest regression. Due to the large
 My big take-aways from this project is that there is trade-offs between precision and manageable computing timing. Although accounts for all variables and using larger number for parameters in the regression process helps to improve precision in predictive models. It is not too applicable in practice due to the higher cost in computation. (excessive timing and problem of over-fitting) Therefore, I found that we sometimes need to compromise and find a best intermediary decision. In addition, even though the parallel computing helps to improve the timing a little, it does not significantly enhance the computing efficiency.     
 
 
-#### [Link](https://ywzhou33.github.io/ST558-Project-2/) to the Github Pages repo and [link](https://github.com/ywzhou33/ywzhou33.github.io.git) to Github Blog repo.  
+#### [Link](https://ywzhou33.github.io/ST558-Project-2/) to the Github Pages repo and [Link](https://github.com/ywzhou33/ywzhou33.github.io.git) to Github Blog repo.  
 
 
 ```{r, echo = TRUE, eval = FALSE}
