@@ -1,9 +1,9 @@
-2021-10-31-Project-2-Blog
+ST558 Project 2
 ================
 Aries Zhou
 10/31/2021
 
-#### Project 1 Backgrounds
+#### **Project 2 Backgrounds**
 
 The purpose of this repository is to create predictive models and
 automating Markdown reports. Analysis are done on the **Online News
@@ -19,7 +19,7 @@ tree models were constructed using 5-fold cross-validation. These models
 were first constructed on training data set and than tested on test data
 set. The best model were selected based on lowest RMSE.
 
-#### Reflections
+#### **Reflections**
 
 For large-dimension data like the data used in this project, instead of
 considering all variables for precision, I would select a subset for

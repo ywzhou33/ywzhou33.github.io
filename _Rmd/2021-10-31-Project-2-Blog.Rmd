@@ -1,5 +1,5 @@
 ---
-title: "2021-10-31-Project-2-Blog"
+title: "ST558 Project 2"
 author: "Aries Zhou"
 date: "10/31/2021"
 ---
@@ -8,13 +8,13 @@ date: "10/31/2021"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#### Project 1 Backgrounds  
+#### **Project 2 Backgrounds**    
 
 The purpose of this repository is to create predictive models and automating Markdown reports. Analysis are done on the **Online News Popularity Data Set**. Further information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).   
 
 In this project, subsets by channel type were produced for automating Markdown reports. Variables were selected from each subset by the best subset and stepwise selection methods. Predictive models including the linear regression models, lasso models, random forest models and boosted tree models were constructed using 5-fold cross-validation. These models were first constructed on training data set and than tested on test data set. The best model were selected based on lowest RMSE.    
 
-#### Reflections  
+#### **Reflections**   
 
 For large-dimension data like the data used in this project, instead of considering all variables for precision, I would select a subset for later analysis in the further Project. Those relevant variables in the subset would be selected based on prior knowledge or the point of interest. Next, exploratory data analysis would be performed on the chosen subset and filter the relevant variables again to improve efficiency in the modeling process.     
 
