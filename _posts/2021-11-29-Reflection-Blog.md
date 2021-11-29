@@ -30,10 +30,3 @@ you’ve had this course?
 In this course, I realize that the Rmarkdwon is very useful as digital
 notebook. I had switched to taking notes using Rmarkdwon and had been
 using it to generate files for homework in other classes.
-
-``` r
-rmarkdown::render("2021-11-29-Reflection-Blog.Rmd", 
-                  output_format = "github_document", 
-                  output_dir = "../_posts/",
-                  output_options = list(html_preview = FALSE, keep_html=FALSE))
-```
