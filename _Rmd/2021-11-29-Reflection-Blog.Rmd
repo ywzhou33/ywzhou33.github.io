@@ -20,7 +20,7 @@ In this course, I realize that the Rmarkdwon is very useful as digital notebook.
 
 
 ```{r, echo = TRUE, eval = FALSE}
-rmarkdown::render("2021-11-29-Reflec-Blog.Rmd", 
+rmarkdown::render("2021-11-29-Reflection-Blog.Rmd", 
                   output_format = "github_document", 
                   output_dir = "../_posts/",
                   output_options = list(html_preview = FALSE, keep_html=FALSE))
