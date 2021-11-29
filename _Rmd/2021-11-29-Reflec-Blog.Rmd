@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 #### **Reflections**   
 
 I originally thought that data scientist were more focusing on exploring already-exist data, but that was not true. I understand now that data scientist does not care too much about those known; they put more emphasis on prediction about the unknown.   
